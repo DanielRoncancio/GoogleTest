@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cdcaedf-3667-4264-8126-3c350c35b770" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/1344ccd8d352053c1ca99872eeb6da288506fd486362f25af37f91697febd59e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/23a2be7ab9adee265fbd8269d8db6a4b2ff8cc1d8cd3fbeda07d830d47f33008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/2bcfa430ec1454bd96c2e9cfb1e77af36d4421a9637d664738cb7462df56e795.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/348851cf54924fdeecdebeb1ff6cf516e58d49052d843fcadbe5482a0ba93869.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/380860e3b767a34787dce868df8bf869ec3d53728f7e01b170fae1d976312b1e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/3932c6c6d2ddf1f3240574f0462b6a57e2b5a7da5fa40acabb76c26d71642480.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/3aa97fde0e86f0c5e895b2f3fe3685f85e6a2d107a42c8e7f1fda99252e24d12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/3fe5a2399fd555f57fff85386b87e8392f609758037ea4a6daf2256c23b4d404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/4029cc6f26c6f8bd535cef6c9b7de7e3d1e42784681dd3cbf2e91872ce9537d0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/4c86397d162aaa29c0b6646f1db3fc9994fbf7b44165b4c33d872154b7f73237.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/55a09964b2dd34e911be3eb5b4659f888ff1f6f2195bd1f4d46e65fd46ae9f8b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/572cf818254eb0a078b951f2341a5ef5ff71e8cb01df22084a8d9a64ba3fb451.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/57a67e0a56378c5891087d8e07da2eb7736460bf94a26d3038b4cd69f6f2d78d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/5ee8558234843e879db0ea174a58ac967c81eb3488a61fbceaf471546741b774.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/5f7c3af0528ef39eb7e79879ec382ef6a25cf6ebc5ced5dc913484e626bbdd8c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/5fa76e49316fc607d6aad35efa8f9ca351477831262edd32dc0de05783dfef15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/63b910a79139e0b7778972eecc3ab0e807ae55ea622f4917ef418dffd4446997.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/64f3db0dec4db8adfd8a3963c07d5f0916ed9a3d624d7a52cf9eda27d4bb5879.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/66c1a3728fbb5dfcba611cdaf0b6fa64ded4a7743f1bb5a900a7be66c2b181fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/6f42eaac0eb5af5b08b56dacba33d4bcfda697bd6d4f2b5b0a99b9f26252f1f8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/7c1565d003362c629f3aef4b806862234d78adf65c23c25d611f6b1ae0d8a378.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/812e7bf52aa4b1ae77d9b96cd08a58426d350ad54286c2f5f9ae4bc4bba6cc65.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/87aa243e0088ddbfadec4ece5fc4c32b87cdf669ab45b249a6008fa40de8ee31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/8ed195bbfdd0e8d81f7500a3393c3ad4b9e23dfbaa946b3d5040da38a1ebb3c5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/9467d3fc98eb21f0ab35429701bfa7601acb3ec400ca20db9bf7443124f298fd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/98c3366650ee2d3c9ce3705fbcf112ac999ed1fc40c5779394575ea7017b5230.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/99d4e043ae114f99479ab841656d2d6ad1887bb30db82b5a66389d6786077c74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/9a421edb2d642906fa26b3fe117d123c49a31c16b56b7430c1262a5914975064.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/9fc7d26079b474ad3b74844f4bff4ab5d70fdd7dd8a86c4b7669122892666a14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/SERENITY-JUNIT-_-google-homepage-search_user-can-search-with-_google-search_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/SERENITY-JUNIT-entrar-a-google-y-hacer-una-busqueda_navegacion-en-google.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/_-google-homepage-search_user-can-search-by-using-the-suggestions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/_-google-homepage-search_user-can-search-by-using-the-suggestions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/_-google-homepage-search_user-can-search-by-using-the-suggestions_screenshots.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/_-google-homepage-search_user-can-search-with-_google-search_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/_-google-homepage-search_user-can-search-with-_google-search_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/_-google-homepage-search_user-can-search-with-_google-search__screenshots.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/a155bf3258e263674e1860d4091bba2e3ff5060cd2fdf0abefb56d4905f88116.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/a3547a9cdcc0d51c6a4d8f86b036202121415f1b05e500d355f12c327998f15e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/a41a6d782594b56f86046a0f9934199a4eb529ece06c098eca8d8a56c25dc7db.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/aa2ba3bb703e25f1a99a5600071eefaf805c993cff7bc03a45c0aad5b1b49836.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/ace3866dc9c7a6dd376db15b0fc4f338b759b7a48ab7e9a9b97c7ac3e3571cd5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/af17cccd312459eef419dcfaa085f76b26d0661fccf2b1d55bde2028bd49be75.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/android-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/android-icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/android-icon-36x36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/android-icon-48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/android-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/android-icon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/apple-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/apple-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/apple-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/apple-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/apple-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/apple-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/apple-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/apple-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/apple-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/apple-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/b198454727b9044c7801f126f3820a9ecb42f72d713a956879ed802a255e80b6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/b847817e6838b3763496e88f10afb76a7b45f81d9c9ec208d8435db41cf75784.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/browser-chrome.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/c28c6cf9433fd86b9ebbb8b32c2dbae70beb5fbda618c5c0997f1a648faedf3c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/cf30fb84961112224314075f9c110ac376958ec1ca08c6cb2f0f2a31380c4867.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/css/core.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/css/link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/css/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/css/tables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/css/jquery.dataTables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/css/jquery.dataTables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/css/jquery.dataTables_themeroller.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/Sorting icons.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/back_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/back_enabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/back_enabled_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/forward_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/forward_enabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/forward_enabled_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/sort_asc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/sort_asc_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/sort_both.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/sort_desc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/images/sort_desc_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/jqueryui/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/js/jquery.dataTables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/js/jquery.dataTables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/datatables/1.10.4/media/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/de2f75ac27f992f8229a43f4ce2d1fff9695379033bdb678bc54ad11884ba345.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/dygraph/1.1.0/dygraph-combined.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/e2f57f1610ffe6e5f0929cbab5205ac97abefaa154743a138ed0a82132e9a87c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/e5b2715fd2968b5d98d551ee6f73fc57dfbe604877e1b75b0c2698a1274eaba2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/entrar-a-google-y-hacer-una-busqueda_medio-link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/entrar-a-google-y-hacer-una-busqueda_medio-link.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/entrar-a-google-y-hacer-una-busqueda_medio-link_screenshots.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/entrar-a-google-y-hacer-una-busqueda_navegacion-en-google.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/entrar-a-google-y-hacer-una-busqueda_navegacion-en-google.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/entrar-a-google-y-hacer-una-busqueda_navegacion-en-google_screenshots.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/excanvas/3/excanvas.compiled.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/excanvas/3/excanvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/f2c75d0c79ed5004f5de6fd65a9a55eeb09a34d84f26370486748bb8e6172dd4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/f333e90585fa6c86fd3000d9133a33872fb5257590af9c142dd7950727966ee5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/fabebf7ea597afffec4a0983fd8d176f121f0a4830e8a1fe8ddcdb4651e836e2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/favicon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/feb81e8c76cd5803dcdad4da284ec56e6d28a5fd4d334df37941a559223f5641.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/bg_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/bg_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/bottomm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/driver-appium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/driver-chrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/driver-firefox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/driver-htmlunit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/driver-iexplorer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/driver-opera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/driver-phantomjs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/driver-provided.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/driver-remote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/driver-safari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/greenline.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/ico-q.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/icon-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/ignor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/links_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/menu_f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/menu_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/menu_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/middle-left.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/middle-right.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/middle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/pending.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/serenity-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/skip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/small-middle-left.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/small-middle-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/small-middle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/tablebg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/top-left.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/top-right.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/topm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/traffic-green.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/traffic-in-progress.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/traffic-orange.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/traffic-red.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/traffic-yellow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/images/worker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/2.0.1/jit-yc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/2.0.1/jit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/AreaChart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/BarChart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/ForceDirected.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/ForceDirected3D.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/HeatMap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/Hypertree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/Icicle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/Other.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/PieChart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/RGraph.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/Spacetree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/Sunburst.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/TimeGraph.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/Treemap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/col1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/col2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jit/css/gradient.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/excanvas.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/jquery.jqplot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/jquery.jqplot.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.BezierCurveRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.BezierCurveRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.barRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.barRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.blockRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.blockRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.bubbleRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.bubbleRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.canvasAxisLabelRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.canvasAxisLabelRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.canvasAxisTickRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.canvasAxisTickRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.canvasOverlay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.canvasOverlay.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.canvasTextRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.canvasTextRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.categoryAxisRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.categoryAxisRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.ciParser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.ciParser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.cursor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.cursor.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.dateAxisRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.dateAxisRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.donutRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.donutRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.dragable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.dragable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.enhancedLegendRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.enhancedLegendRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.funnelRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.funnelRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.highlighter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.highlighter.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.json2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.json2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.logAxisRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.logAxisRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.mekkoAxisRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.mekkoAxisRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.mekkoRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.mekkoRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.meterGaugeRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.meterGaugeRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.mobile.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.ohlcRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.ohlcRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.pieRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.pieRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.pointLabels.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.pointLabels.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.pyramidAxisRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.pyramidAxisRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.pyramidGridRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.pyramidGridRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.pyramidRenderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.pyramidRenderer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.trendline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqplot/1.0.8/plugins/jqplot.trendline.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqtree/0.22/jqtree-circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqtree/0.22/jqtree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqtree/0.22/tree.jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-bg_flat_55_999999_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-bg_flat_75_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-bg_glass_45_0078ae_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-bg_glass_55_f8da4e_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-bg_glass_75_79c9ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_45_e14f1c_500x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_50_6eac2c_500x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_75_2191c0_500x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-icons_0078ae_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-icons_056b93_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-icons_d8e7f3_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-icons_e0fdff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-icons_f5e175_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-icons_f7a50d_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/images/ui-icons_fcd113_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/jquery-ui.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/jqueryui/1.11.2-start/jquery-ui.theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/ms-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/ms-icon-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/ms-icon-310x310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/ms-icon-70x70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/demo/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/demo/images/dev7logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/demo/images/nemo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/demo/images/toystory.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/demo/images/up.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/demo/images/walle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/demo/scripts/jquery-1.9.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/demo/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/jquery.nivo.slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/jquery.nivo.slider.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/nivo-slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/nivoslider.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/bar/arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/bar/bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/bar/bullets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/bar/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/dark/arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/dark/bullets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/dark/dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/dark/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/default/arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/default/bullets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/default/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/default/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/light/arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/light/bullets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/light/light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/nivo-slider/3.2/themes/light/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/pagesource4940562904742373801.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/pagesource5551748689439837647.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_1344ccd8d352053c1ca99872eeb6da288506fd486362f25af37f91697febd59e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_23a2be7ab9adee265fbd8269d8db6a4b2ff8cc1d8cd3fbeda07d830d47f33008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_2bcfa430ec1454bd96c2e9cfb1e77af36d4421a9637d664738cb7462df56e795.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_348851cf54924fdeecdebeb1ff6cf516e58d49052d843fcadbe5482a0ba93869.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_380860e3b767a34787dce868df8bf869ec3d53728f7e01b170fae1d976312b1e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_3932c6c6d2ddf1f3240574f0462b6a57e2b5a7da5fa40acabb76c26d71642480.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_3aa97fde0e86f0c5e895b2f3fe3685f85e6a2d107a42c8e7f1fda99252e24d12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_3fe5a2399fd555f57fff85386b87e8392f609758037ea4a6daf2256c23b4d404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_4029cc6f26c6f8bd535cef6c9b7de7e3d1e42784681dd3cbf2e91872ce9537d0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_4c86397d162aaa29c0b6646f1db3fc9994fbf7b44165b4c33d872154b7f73237.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_55a09964b2dd34e911be3eb5b4659f888ff1f6f2195bd1f4d46e65fd46ae9f8b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_572cf818254eb0a078b951f2341a5ef5ff71e8cb01df22084a8d9a64ba3fb451.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_57a67e0a56378c5891087d8e07da2eb7736460bf94a26d3038b4cd69f6f2d78d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_5ee8558234843e879db0ea174a58ac967c81eb3488a61fbceaf471546741b774.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_5f7c3af0528ef39eb7e79879ec382ef6a25cf6ebc5ced5dc913484e626bbdd8c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_5fa76e49316fc607d6aad35efa8f9ca351477831262edd32dc0de05783dfef15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_63b910a79139e0b7778972eecc3ab0e807ae55ea622f4917ef418dffd4446997.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_64f3db0dec4db8adfd8a3963c07d5f0916ed9a3d624d7a52cf9eda27d4bb5879.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_66c1a3728fbb5dfcba611cdaf0b6fa64ded4a7743f1bb5a900a7be66c2b181fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_6f42eaac0eb5af5b08b56dacba33d4bcfda697bd6d4f2b5b0a99b9f26252f1f8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_7c1565d003362c629f3aef4b806862234d78adf65c23c25d611f6b1ae0d8a378.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_812e7bf52aa4b1ae77d9b96cd08a58426d350ad54286c2f5f9ae4bc4bba6cc65.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_87aa243e0088ddbfadec4ece5fc4c32b87cdf669ab45b249a6008fa40de8ee31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_8ed195bbfdd0e8d81f7500a3393c3ad4b9e23dfbaa946b3d5040da38a1ebb3c5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_9467d3fc98eb21f0ab35429701bfa7601acb3ec400ca20db9bf7443124f298fd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_98c3366650ee2d3c9ce3705fbcf112ac999ed1fc40c5779394575ea7017b5230.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_99d4e043ae114f99479ab841656d2d6ad1887bb30db82b5a66389d6786077c74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_9a421edb2d642906fa26b3fe117d123c49a31c16b56b7430c1262a5914975064.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_9fc7d26079b474ad3b74844f4bff4ab5d70fdd7dd8a86c4b7669122892666a14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_a155bf3258e263674e1860d4091bba2e3ff5060cd2fdf0abefb56d4905f88116.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_a3547a9cdcc0d51c6a4d8f86b036202121415f1b05e500d355f12c327998f15e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_a41a6d782594b56f86046a0f9934199a4eb529ece06c098eca8d8a56c25dc7db.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_aa2ba3bb703e25f1a99a5600071eefaf805c993cff7bc03a45c0aad5b1b49836.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_ace3866dc9c7a6dd376db15b0fc4f338b759b7a48ab7e9a9b97c7ac3e3571cd5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_af17cccd312459eef419dcfaa085f76b26d0661fccf2b1d55bde2028bd49be75.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_b198454727b9044c7801f126f3820a9ecb42f72d713a956879ed802a255e80b6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_b847817e6838b3763496e88f10afb76a7b45f81d9c9ec208d8435db41cf75784.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_c28c6cf9433fd86b9ebbb8b32c2dbae70beb5fbda618c5c0997f1a648faedf3c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_cf30fb84961112224314075f9c110ac376958ec1ca08c6cb2f0f2a31380c4867.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_de2f75ac27f992f8229a43f4ce2d1fff9695379033bdb678bc54ad11884ba345.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_e2f57f1610ffe6e5f0929cbab5205ac97abefaa154743a138ed0a82132e9a87c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_e5b2715fd2968b5d98d551ee6f73fc57dfbe604877e1b75b0c2698a1274eaba2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_f2c75d0c79ed5004f5de6fd65a9a55eeb09a34d84f26370486748bb8e6172dd4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_f333e90585fa6c86fd3000d9133a33872fb5257590af9c142dd7950727966ee5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_fabebf7ea597afffec4a0983fd8d176f121f0a4830e8a1fe8ddcdb4651e836e2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scaled_feb81e8c76cd5803dcdad4da284ec56e6d28a5fd4d334df37941a559223f5641.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scripts/imgpreview.full.jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scripts/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/scripts/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_c03/serenity-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/prueba/RunnerFeatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/prueba/RunnerTags.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/prueba/definition/pruebaDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/prueba/pageobjects/pruebaPageObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/prueba/steps/pruebaSteps.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PQkbRUMlHrmZyIEFTsl77M28Nl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../MyProyects-master/prueba" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RunnerFeatures (2)">
+    <configuration name="Feature: activos" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/activos.Feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Prueba" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: activos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: prueba" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/prueba.Feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Prueba" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: prueba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerFeatures (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prueba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="prueba" />
+      <option name="MAIN_CLASS_NAME" value="prueba.RunnerFeatures" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerFeatures (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.choucair.formacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="prueba" />
+      <option name="MAIN_CLASS_NAME" value="prueba.RunnerFeatures" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerFeatures" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Prueba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.choucair.formacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.choucair.formacion" />
+      <option name="MAIN_CLASS_NAME" value="com.choucair.formacion.RunnerFeatures" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunnerFeatures (2)" />
+        <item itemvalue="JUnit.RunnerFeatures (1)" />
+        <item itemvalue="Cucumber java.Feature: prueba" />
+        <item itemvalue="Cucumber java.Feature: activos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cdcaedf-3667-4264-8126-3c350c35b770" name="Default Changelist" comment="" />
+      <created>1565813778888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565813778888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
